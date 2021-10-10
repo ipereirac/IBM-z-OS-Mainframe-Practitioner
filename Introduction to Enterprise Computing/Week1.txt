@@ -1,0 +1,39 @@
+Question 1
+Which of these provides a common set of methods for performing functions which the operating system is going to utilize?
+Firmware
+
+Question 2
+Architecture is comprised of:
+Software and hardware
+
+Question 3
+What takes source code and compiles it into machine language?
+Compilers
+
+Question 4
+Which of the following are examples of application software?  
+Inventory jobs    
+
+Question 5
+What is the best definition of an address space?    
+A map of storage available to applications and users    
+
+Question 6
+What term is used when the operating system moves data from auxiliary storage to central storage?    
+Paging
+
+Question 7
+A processor unit (PU) is an un-characterized processor in a mainframe. Which characterized processor executes commands?
+CP (Central processor)    
+
+Question 8
+In TSO/ISPF, what is the name of a data set which contains multiple members, each of which holds a sub-data set?    
+Partitioned data set    
+
+Question 9
+What is the name of software that enables hardware on a mainframe?    
+LIC (Licensed internal code)    
+
+Question 10
+What is the status of the management process state when a process is waiting on the processor to handle the request?
+Ready

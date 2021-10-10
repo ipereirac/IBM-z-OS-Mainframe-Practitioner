@@ -1,0 +1,36 @@
+Question 1
+Applications running on an operating system through a simplified series of interfaces is referred to as Application programming interfaces    
+True
+
+Question 2
+What is the minimum number of LPARs in a Sysplex?
+1
+
+Question 3
+Which z/OS component manages communications between applications in a Parallel Sysplex?    
+Cross-system coupling facility    
+
+Question 4
+Which z/OS component is used for managing workload distribution, workload balancing, and distributing resources to competing workloads?    
+Workload manager    
+
+Question 5
+What's the most accurate definition of a Network Interface Card (NIC)?
+A NIC is a computer hardware component that connects a computer to a network.
+
+Question 6
+What does VSAM stand for?
+Virtual Storage Access Method
+
+
+Question 7
+Which is the best definition of a console as it pertains to Mainframe? 
+A user interface to a server, for example, the interface provided on a personal computer.
+
+Question 8
+What's the best definition of an LDAP? 
+Defines a standard method to access and update information in a directory.
+
+Question 9
+W​hat does GDPS stand for? 
+Geographically Dispersed Parallel Sysplex

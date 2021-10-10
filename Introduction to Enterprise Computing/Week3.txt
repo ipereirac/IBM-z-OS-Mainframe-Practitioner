@@ -1,0 +1,68 @@
+Question 1
+Which of the following are considered “computer resources”?    
+All of the above
+
+Question 2
+Which PCIe hardware component improves security by performing cryptographic functions?   
+Hardware security module    
+
+Question 3
+Which CNTLUNIT keyword specifies the address or addresses to which the control unit is attached?    
+Link address    
+
+Question 4
+Which channel type provides 3270 sessions to serve as a vehicle for an operating system?    
+OSC
+
+Question 5
+Which of the following IOCP statements are optional?    
+All of these options
+
+Question 6
+Which statement defines the LPARs and the logical channel subsystems?    
+Resource
+
+Question 7
+The Image activation order is defined in which profile?    
+Reset
+
+Question 8
+What is the name of the process that loads the IOCDS in HSA?    
+POR
+
+Question 9
+During an initial program load, what is the name of the device which contains the operating system?    
+SYSRES    
+
+Question 10
+Where can activation profiles be initiated from?   
+HMC and SE
+
+Question 11
+Scenario: The mainframe is powered on and all 85 LPARs are IPL’ed. 
+Which activation profile, when activated, will crash all 85 LPARs along with their operating systems?    
+Reset
+
+Question 12
+Which position(s) in the Load Parameter contains the information on what messages are to be displayed during IPL time?    
+7
+
+Question 13
+What is the name of the process that loads operating system from the SYSRES device and loads it into main storage?  
+IPL
+
+Question 14
+Which file or data set is used during an IPL and contains the hardware and software definitions of the system?    
+IODF
+
+Question 15
+What allows data to be decrypted the moment it is needed?    
+Pervasive encryption    
+
+Question 16
+What is another name for asymmetric encryption?    
+Public key encryption    
+
+Question 17
+What is the name of the high performance cryptographic engine which exists for every IBM Z processor?    
+CPACF    
