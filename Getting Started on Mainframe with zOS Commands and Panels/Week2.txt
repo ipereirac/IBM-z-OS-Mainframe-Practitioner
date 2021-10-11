@@ -1,0 +1,27 @@
+Question 1
+When searching for a word in a data set, which function key can be used to locate the word again?    
+F5
+
+Question 2
+What is the correct syntax to replace all instances of the word mainframes to servers in a data set?    
+C MAINFRAMES SERVERS ALL    
+
+Question 3
+In a list of datasets returned by ISPF dataset list function (3.4), which primary command locates and positions the cursor to the first dataset in the list starting with characters 'PROD':
+L PROD
+
+Question 4
+To repeat a search after locating a specific word or phrase, what is used to repeat the search without reentering the character string?    
+rfind    
+
+Question 5
+Which command in the prefix area will add six additional lines?    
+I6 
+
+Question 6
+Which prefix line command copies data from specified columns of one or more source records to the corresponding columns of one or more existing records?    
+O
+
+Question 7
+What TSO command recovers waste space that was formerly occupied by deleted or updated members and is now available for use again?    
+Compress

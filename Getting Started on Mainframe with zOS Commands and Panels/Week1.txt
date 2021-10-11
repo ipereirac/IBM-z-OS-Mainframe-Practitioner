@@ -1,0 +1,43 @@
+Question 1
+What are the two ways to end the ISPF session?    
+Enter the letter X on the command line of the ISPF Primary Option Menu or press the F12 (Cancel) key    
+
+Question 2
+What is the correct procedure to logoff TSO?    
+Enter logoff when in ‘ready’ mode 
+
+Question 3
+Given a data set name of “IBM.Z.MAINFRAME”, what is the low level qualifier (LLQ)?    
+MAINFRAME
+
+Question 4
+Which type of data sets contain members?
+PDS and PDSE    
+
+Question 5
+What is it called when you establish a link to a data set?    
+Allocate
+
+Question 6
+When in a data set on the edit panel, what is entered in the prefix area to add three more lines to enter data?    
+I3   
+
+Question 7
+When in a data set on the edit panel, what is entered in the prefix area to move a block of lines?    
+MM on the first line, MM on the last line, and A (after) or B (before) on the line where you want to move the lines to    
+
+Question 8
+During the exercise, you were instructed to logon TSO. Which panel was displayed after successfully logging on?    
+ISPF Primary Option Menu    
+
+Question 9
+After successfully logging on to TSO, what is the correct action to perform when three asterisks (***) appear on the screen?    
+Press the enter key    
+
+Question 10
+After ending ISPF, what is the current state of the TSO session?    
+TSO is still running    
+
+Question 11
+What is a valid method of spelling and capitalizing your userid on the logon screen?:
+All of them    
