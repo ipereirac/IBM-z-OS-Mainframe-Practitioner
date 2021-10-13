@@ -1,0 +1,39 @@
+Question 1
+In the SYS1.PARMLIB data set, which member contains installation defaults or parameters that will not change from IPL to IPL?    
+IEASYSxx    
+
+
+Question 2
+Which z/OS data set contains read-only programs that can be shared among users of the system?    
+SYS1.LPALIB    
+
+Question 3
+Which SYS1.LINKLIB module contains the JCL statements which begin the master scheduler subsystem which establishes communication between the z/OS operating system and JES2?    
+MSTJCL00    
+
+Question 4
+Which z/OS and z/VM security system provides access control and auditing functionality?    
+RACF
+
+Question 5
+Which z/OS component provides the capability to define, monitor and dynamically adapting its processing in reference to performance goals?
+WLM
+
+Question 6
+Which z/OS component is responsible for sending emails and accessing the Internet?    
+Communication server    
+
+
+Question 7
+What does the +3 at the end of the GDG names represent?
+   G0000V04.GDG(+3)    
+
+Relative generation number    
+
+Question 8
+What is the maximum amount of storage supported by the IBM z14?    
+32 terabytes    
+
+Question 9
+What provides a method to increase memory availability, where a fully redundant memory system can identify and correct memory errors without stopping?    
+RAIM
